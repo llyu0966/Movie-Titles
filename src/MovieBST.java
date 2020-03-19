@@ -15,6 +15,7 @@ public class MovieBST {
     //A node represents a movie
     class Movie{
         private String title;
+        //will be working on how to extract the year to a separate value stored in each node.
         //private int releaseYear;
         private Movie left, right;
         
